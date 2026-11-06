@@ -2,6 +2,7 @@
   "name": "earth-geointelligence",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "description": "CPU-first geospatial intelligence screening platform",
   "scripts": {
     "dev": "npm run dev:frontend",
